@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="trind.time" />
+          <option value="practicec.OCC" />
+          <option value="practicec.STEPControl_Reader" />
+          <option value="practicec.IFSelect_RetDone" />
+          <option value="OCC.Core.BRepGProp.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
